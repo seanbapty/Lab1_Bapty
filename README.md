@@ -21,6 +21,10 @@ Lab1_Bapty
 
 ![alt tag](https://github.com/seanbapty/Lab1_Bapty/blob/master/Lab%201%20Prelab%20Test.JPG)
 
+## Boolean Schematic
+
+![alt tag](https://github.com/seanbapty/Lab1_Bapty/blob/master/lab1%20schematic.JPG)
+
 ## Analysis
 
 Based on the given circuit, the output for X should equal 1 for A!C + !AB + A!B!C. Y should equal 1 for !BC + B!C. 
