@@ -41,15 +41,31 @@ end Lab1_Bapty;
 architecture Behavioral of Lab1_Bapty is
 
 --X
-signal A_Not, B_Not, C_Not, D, E, F, G, H : STD_LOGIC;
+signal A_NOT, B_NOT, C_NOT, D, E, F, G, H : STD_LOGIC;
 
 --Y
 signal I, J : STD_LOGIC;
 --Z requires no additional signals
 
 begin
+--For X output
+A_NOT <= Not A;
+B_NOT <= Not B;
+C_NOT <= Not C;
+D <= A_NOT and C;
+E <= A_NOT and B;
+G <= B_NOT and C_NOT;
+F <= G and A;
+H <= E or D;
+X <= F or H;
 
+--For Y output
+I <= B and C_NOT;
+J <= B_NOT and C;
+Y <= I or J;
 
+--For Z output
+Z <= C;
 
 end Behavioral;
 
