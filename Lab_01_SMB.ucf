@@ -1,0 +1,8 @@
+#==== Slide Switches ======
+Net "A" LOC = "K18"; # A input is switch 18 on right side
+Net "B" LOC = "H18"; # B input is switch 18 on right side
+Net "C" LOC = "G18"; # C input is switch 18 on right side
+#==== LED Outputs =========
+NET "X" LOC = "K15"; # X led 2
+NET "Y" LOC = "J15"; # Y led 1
+NET "Z" LOC = "J14"; # Z led 0
