@@ -39,6 +39,7 @@ FPGA configured and checked by Capt. Silva on 16 Jan.
 The 8 bit VHD was implemented using an input and an output std logic array as shown below.
 
 signal Input: std_logic_vector(7 downto 0);
+
 signal Output: std_logic_vector(7 downto 0);
 
 In order to convert twos compliment Output was assigned as 'not Input + 1'.
