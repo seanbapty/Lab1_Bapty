@@ -42,7 +42,7 @@ signal Input: std_logic_vector(7 downto 0);
 
 signal Output: std_logic_vector(7 downto 0);
 
-In order to convert twos compliment Output was assigned as 'not Input + 1'.
+In order to convert twos compliment Output was assigned as 'not Input + 1'. The unsigned command below converts 'Not Input' to a numeric form so that 1 can be added to it.
 
 Output <= std_logic_vector(unsigned(Not Input) + 1);
 
