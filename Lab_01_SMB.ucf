@@ -3,19 +3,19 @@
 #Net "B" LOC = "H18"; # B input is switch 18 on right side
 #Net "C" LOC = "G18"; # C input is switch 18 on right side
 # Changed to "<input 'number'>"
-Net Input<0> LOC = "G18"; # A input is switch 18 on right side
-Net Input<1> LOC = "H18"; # B input is switch 18 on right side
-Net Input<2> LOC = "K18"; # C input is switch 18 on right side
-Net Input<3> LOC = "K17"; # A input is switch 18 on right side
-Net Input<4> LOC = "L14"; # B input is switch 18 on right side
-Net Input<5> LOC = "L13"; # C input is switch 18 on right side
-Net Input<6> LOC = "N17"; # C input is switch 18 on right side
-Net Input<7> LOC = "R17"; # C input is switch 18 on right side
+Net Input<0> LOC = "G18"; # 0 input is switch 0 on right side
+Net Input<1> LOC = "H18"; # 1 input is switch 1
+Net Input<2> LOC = "K18"; # 2 input is switch 2
+Net Input<3> LOC = "K17"; # 3 input is switch 3
+Net Input<4> LOC = "L14"; # 4 input is switch 4
+Net Input<5> LOC = "L13"; # 5 input is switch 5
+Net Input<6> LOC = "N17"; # 6 input is switch 6
+Net Input<7> LOC = "R17"; # 7 input is switch 7
 #==== LED Outputs =========
 #NET "X" LOC = "K15"; # X led 2
 #NET "Y" LOC = "J15"; # Y led 1
 #NET "Z" LOC = "J14"; # Z led 0
-NET Output<0> LOC = "J14";
+NET Output<0> LOC = "J14"; #corresponds to LED 0
 NET Output<1> LOC = "J15";
 NET Output<2> LOC = "K15";
 NET Output<3> LOC = "K14";
