@@ -19,11 +19,19 @@ Lab1_Bapty
 
 ## Circuit Output
 
+
+
 ![alt tag](https://github.com/seanbapty/Lab1_Bapty/blob/master/Lab%201%20Prelab%20Test.JPG)
 
 ## Boolean Schematic
-
+### Hand Drawn Schematic
 ![alt tag](https://github.com/seanbapty/Lab1_Bapty/blob/master/lab1%20schematic.JPG)
+### Computer Generated Schematic For Most Significant Bit X
+![alt tag](https://github.com/seanbapty/Lab1_Bapty/blob/master/X%20schematic.JPG)
+### Computer Generated Schematic For Middle Significant Bit Y
+![alt tag](https://github.com/seanbapty/Lab1_Bapty/blob/master/Y%20schematic.JPG)
+### Computer Generated Schematic For Least Significant Bit Z
+![alt tag](https://github.com/seanbapty/Lab1_Bapty/blob/master/Z%20schematic.JPG)
 
 ## 3 Bit Analysis
 
