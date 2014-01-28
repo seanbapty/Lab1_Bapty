@@ -23,7 +23,7 @@ Lab1_Bapty
 
 ![alt tag](https://github.com/seanbapty/Lab1_Bapty/blob/master/Lab%201%20Prelab%20Test.JPG)
 
-## Boolean Schematic
+## Boolean Schematics
 ### Hand Drawn Schematic
 ![alt tag](https://github.com/seanbapty/Lab1_Bapty/blob/master/lab1%20schematic.JPG)
 ### Computer Generated Schematic For Most Significant Bit X
